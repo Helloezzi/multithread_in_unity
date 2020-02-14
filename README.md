@@ -9,7 +9,7 @@
 ##### Solution
 1. Object Pool 에 1~100 까지의 숫자를 Push 함  
 
-2. Main Code 에서 Work class의 instance를 만들어서 Task로 2개의 Thread를 생성하여 Object Pool 에서 하나씩 Pop 하여 콘솔에 Print 함  
+2. Main Code 에서 Work class의 instance를 만들어서 Task로 n개의 Thread를 생성하여 Object Pool 에서 하나씩 Pop 하여 콘솔에 Print 함  
 
 ##### Question
 - 항상 첫 번째 Tick 에서 Number 1 이 아닌 2 부터 Console에 찍히는 점.  
