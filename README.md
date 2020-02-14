@@ -1,7 +1,7 @@
 
-#### How to use Multi Threading in Unity.
+### How to use Multi Threading in Unity.
 
-* Requirements
+#### Requirements
 - install git
 - install Unity 2019.2.0f1
 - install VisualStudio 2017 community
