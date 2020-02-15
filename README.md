@@ -1,11 +1,6 @@
 
 ### How to use Multi Threading in Unity.
 
-#### Requirements
-- install git
-- install Unity 2019.2.0f1
-- install VisualStudio 2017 community
-
 ##### Solution
 1. Object Pool 에 1~100 까지의 숫자를 Push 함  
 
